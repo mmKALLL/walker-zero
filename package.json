@@ -1,0 +1,24 @@
+{
+  "name": "walker-zero",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "lint-staged": "^8.0.4",
+    "prettier": "^1.15.1"
+  },
+  "scripts": {
+    "format": "prettier 'src/**/*.{ts,tsx,js,jsx,json,css}' --single-quote --no-semi --write --ignore-path .gitignore",
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn format"
+    }
+  }
+}
