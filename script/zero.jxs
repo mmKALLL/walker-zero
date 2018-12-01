@@ -1,0 +1,65 @@
+// AMAZING SUPER SECRET CODE FORMAT
+// JXS STANDS FOR "JAVA XX SCRIPT"
+
+// IT MEANS DOING THINGS IN A
+// VERY COMPLEX WAY, LIKE JAVA
+// BUT ALSO IN A VERY VERY
+// HACKY AND UNMAINTAINABLE WAY,
+// LIKE MOST SCRIPTS, ESPECIALLY
+// JAVASCRIPTS #nohate #cleancode
+
+// global scope because nothing will ever be able to interfere with my plans
+
+i_am_very_good_at_maning_variablesz = false;;;;;;
+
+source_code_can_be_an_art_in_itself = Maybe(true)
+
+// nah we don't need to be strict, coding is supposed to be FUNNN
+//"use strict";
+
+// Functional programming... Maybe it means making a lot of functions?
+function Maybe() {
+    return call_me_maybe // TODO: placeholder
+}
+
+function call_me_maybe() {
+    return self() // avoid side effects
+}
+
+function self() {
+    console.log("I am a thing. Or am I?")
+    return self
+}
+
+// Experiment with naming conventions. We can never make `progressWithoutExperimentation() ===== true` unless new things are tried.
+
+function naughty_kidsDeserveNoPresents(kids) {
+    return wait_IamaPlaceholder(kids)
+}
+
+function wait_IamaPlaceholder(args) {
+    if (args)
+        return source_code_can_be_an_art_in_itself()
+}
+
+function When_in_trouble(doThis) {
+    doThis()
+    trouble = false
+}
+
+
+// MAIN PROGRAM
+// MAIN PROGRAM
+// MAIN PROGRAM
+// MAIN PROGRAM
+
+logThings = naughty_kidsDeserveNoPresents("yes")
+
+When_in_trouble(
+    logThings // in aki2 style
+)
+
+TROUBLE_AVERTED = "true"
+MISSION_ACCOMPL = "fakse"
+BASE_URL = "file:///Users/esakoskinen/.workspace/walker-zero/zero/"
+
