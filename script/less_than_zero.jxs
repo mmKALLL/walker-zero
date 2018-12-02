@@ -61,5 +61,5 @@ When_in_trouble(
 
 TROUBLE_AVERTED = "true"
 MISSION_ACCOMPL = "fakse"
-BASE_URL = "file:///Users/esakoskinen/.workspace/walker-zero/zero/"
+BASE_URL = "https://walkergame.com/zero/"
 
